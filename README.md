@@ -18,6 +18,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Express](https://expressjs.com/pt-br/starter/installing.html)
 - [TypeScript](https://www.typescriptlang.org/)
 - [TypeORM](https://typeorm.io/#/)
+- [Multer](https://www.npmjs.com/package/multer)
 
 ---
 
