@@ -2,7 +2,7 @@
   Desafio GoFinances
 </h1>
 
-<p align="center"> Desafio sobre os fundamentos do NodeJS aplicado ao Bootcamp GoStack. </p>
+<p align="center"> Desafio sobre Banco de Dados e upload de arquivos no NodeJS aplicado ao Bootcamp GoStack. </p>
 
 ## 📄️ Sobre
 
